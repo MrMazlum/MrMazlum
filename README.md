@@ -14,7 +14,7 @@ Flutter · Dart · Firebase · Python · C · C# · Unity · Godot · Docker · 
 
 ## Projects
 
-- [Tortul](https://play.google.com/store/apps/details?id=com.mrmazlum.tortul) — Life management app: health, finance, reading, schedules · Android · Flutter · Firebase
+- [Tortul]([https://play.google.com/store/apps/details?id=com.mrmazlum.tortul](https://play.google.com/store/apps/details?id=com.mazlum.tortul&pcampaignid=web_share)) — Life management app: health, finance, reading, schedules · Android · Flutter · Firebase
 - [EaLang](https://github.com/MrMazlum/ealang) — Vocabulary SRS app with auto word lookup · Flutter
 
 ## Links
