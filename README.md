@@ -6,7 +6,7 @@ Engineering student at Politecnico di Torino · Mobile Developer · Building rea
 
 - 2nd-year engineering student at **Politecnico di Torino**, Turin, Italy
 - UI department member at [Diana Team](https://teamdiana.it) — rover operator panel for autonomous systems
-- Building and shipping Android apps in my spare time
+- Developing Android apps in my spare time
 - Currently working on **Tortul** — life management app with gamification, social features, and analytics
 
 ## Tech Stack
