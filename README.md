@@ -19,7 +19,7 @@
 ## Projects
 
 - **[Tortul](https://play.google.com/store/apps/details?id=com.mazlum.tortul&pcampaignid=web_share)**
-  A gamified life management app featuring social tools and analytics to track health, finance, reading, and schedules. Built with Flutter and Firebase.
+  A sedimentary daily journal where each sealed day becomes a layer of stone, building a permanent rock core of your life's record. Built with Flutter.
 
 - **[Earshot](https://github.com/MrMazlum/Earshot)**
   An open-source project I started that turns your Android phone into a PC microphone over local Wi-Fi. It is completely free, privacy-first, and includes built-in noise removal. Connects to Windows or Linux as a standard microphone.
