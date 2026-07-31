@@ -1,11 +1,9 @@
 # Burak Mazlum
 
-Engineering student at Politecnico di Torino.
-
 
 ## About Me
 
-- 2nd-year engineering student at **Politecnico di Torino**, Turin, Italy.
+- Computer Engineering student at Politecnico di Torino.
 - Member of the Computer Science department at [Diana Team](https://teamdiana.it)
 - Exploring cybersecurity and network vulnerabilities as a hobby in my spare time.
 
